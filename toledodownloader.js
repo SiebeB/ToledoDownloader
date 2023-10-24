@@ -4,6 +4,7 @@
 // @description  Script to download KU Leuven Toledo Lectures
 // @author       Siebe
 // @license      MIT
+// @downloadURL  https://github.com/SiebeB/ToledoDownloader/raw/main/toledodownloader.js
 
 // @match        https://ultra.edu.kuleuven.cloud/*
 // @match        https://*.kuleuven.cloud/*
