@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         KU Leuven Toledo Downloader
-// @version      1.1.2
+// @version      1.1.3
 // @description  Script to download KU Leuven Toledo Lectures
 // @author       Siebe
 // @license      MIT
